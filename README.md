@@ -70,3 +70,10 @@
   - Automates collection of Kubernetes cluster metrics for monitoring.
 - **AWS Instance Management Script**
   - Starts/stops AWS EC2 instances on demand or based on schedule.
+
+
+## Makefile
+
+Makefile ek automation file hoti hai jisme hum commands ko targets ke form me likhte hain, taaki repetitive tasks ko automate kiya ja sake.
+
+A Makefile ek automation file hoti hai jo software development aur DevOps workflows me repetitive commands ko automate karne ke liye use ki jaati hai. Isme hum different tasks—jaise build, test, run, clean, deploy, Docker commands, Kubernetes commands—ko targets ke form me define karte hain. Phir in targets ko sirf make <target> likhkar easily run kiya ja सकता है
